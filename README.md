@@ -1,0 +1,1 @@
+In this Guided inquiry I was tasked with a few different tasks that in total allowed me to create a dynamic page that held information a few different pages on people.The assignment was broken down into a few different tasks wich at the end had me map through a coomponent and dispay it a few times while wrting it once.
