@@ -6,7 +6,7 @@ const BasicInfo = (props) => {
 
   return (
     <div>
-      <h1>Basic Information</h1>
+      <h1>Name: {name}</h1>
       <p>Name: {name}</p>
       <p>Number: {number}</p>
       <p>Date of Birth: {dob}</p>
